@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16181" started-at="2020-09-13T19:39:53Z" finished-at="2020-09-13T19:40:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16181" started-at="2020-09-13T19:39:53Z" finished-at="2020-09-13T19:40:10Z">
+      <class name="com.shoaib.selenium.ReadContentOfPdf">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.shoaib.selenium.ReadContentOfPdf@7e0babb1]" name="SetUp" is-config="true" duration-ms="5858" started-at="2020-09-14T01:09:53Z" finished-at="2020-09-14T01:09:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verifyContentInPDf()[pri:0, instance:com.shoaib.selenium.ReadContentOfPdf@7e0babb1]" name="verifyContentInPDf" duration-ms="9660" started-at="2020-09-14T01:09:59Z" finished-at="2020-09-14T01:10:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContentInPDf -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.shoaib.selenium.ReadContentOfPdf@7e0babb1]" name="tearDown" is-config="true" duration-ms="655" started-at="2020-09-14T01:10:09Z" finished-at="2020-09-14T01:10:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.shoaib.selenium.ReadContentOfPdf -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
